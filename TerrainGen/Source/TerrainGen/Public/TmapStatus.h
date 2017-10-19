@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "WorldController.generated.h"
+#include "TmapStatus.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class TERRAINGEN_API AWorldController : public AGameModeBase
+class TERRAINGEN_API ATmapStatus : public AGameModeBase
 {
 	GENERATED_BODY()
 	
